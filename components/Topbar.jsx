@@ -5,9 +5,9 @@ MoveRight
 
 export const Topbar = () => {
   return (
-    <div className='fixesd top-0 left-0 w-full bg-[#202020] flex justify-between px-56 py-8'>
+    <div className='fixesd top-0 left-0 w-full bg-[#202020] flex justify-between md:px-56 px-5 md:py-8 py-5'>
         <Link href="/">
-        <h1 className='uppercase text-4xl font-semibold text-primary'>shakib.Ai</h1>
+        <h1 className='uppercase md:text-4xl text-3xl font-semibold text-primary'>shakib.Ai</h1>
          </Link> 
          <Link href ="https://github.com/Shaqy2024?tab=repositories" className='text-white hover:underline hover:text-primary flex gap-2 items-center' > devlopment and design by shakib
          <MoveRight />
