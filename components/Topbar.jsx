@@ -9,7 +9,7 @@ export const Topbar = () => {
         <Link href="/">
         <h1 className='uppercase md:text-4xl text-3xl font-semibold text-primary'>shakib.Ai</h1>
          </Link> 
-         <Link href ="https://github.com/Shaqy2024?tab=repositories" className='text-white hover:underline hover:text-primary flex gap-2 items-center' > devlopment and design by shakib
+         <Link href ="https://github.com/Shaqy2024?tab=repositories" className='text-white hover:underline hover:text-primary flex gap-2 items-center' > devlopment by shakib
          <MoveRight />
          </Link>
     </div>
